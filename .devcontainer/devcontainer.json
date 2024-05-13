@@ -1,6 +1,0 @@
-{
-  "name": "RCKSTR Development Environment",
-  "dockerFile": "Dockerfile",
-  "extensions": [],
-  "forwardPorts": [3000]
-}
