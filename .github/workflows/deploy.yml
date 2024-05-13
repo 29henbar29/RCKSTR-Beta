@@ -22,4 +22,5 @@ jobs:
 
       - name: Start Proxy Server
         run: |
-          node server.js  # Replace 'server.js' with your server file
+          PORT=8080 node server.js  # Start server on port 8080 (or your desired port)
+
